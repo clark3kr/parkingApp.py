@@ -8,13 +8,18 @@ This package was created for visitors, residents, commuters and staff at JMU. Th
 
 ## Running the tests
 
+We tested our code using [Jasmine](https://jasmine.github.io/) by executing the command:
+```
+jasmine
+```
 
 
 
 ## Authors
 
-Ben Gilliam
-Kyle Clark
+* **Ben Gilliam** - [MrPickles2009](https://github.com/MrPickles2009/)
+* **Kyle Clark** - [clark3kr](https://github.com/clark3kr)
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details
